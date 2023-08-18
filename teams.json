@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org/extensions",
+  "@type": "MessageCard",
+  "themeColor": "eb4034",
+  "title": "",
+  "text": "",
+  "potentialAction": [
+    {
+      "@type": "OpenUri",
+      "name": "Visit site",
+      "targets": [
+        {
+          "os": "default",
+          "uri": ""
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "activityTitle": "",
+      "activityImage": ""
+    },
+    {
+      "images": [
+        {
+          "image": ""
+        }
+      ]
+    }
+  ]
+}
